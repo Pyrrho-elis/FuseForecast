@@ -11,6 +11,7 @@ function App() {
         <Hero />
         <Graph />
       </div>
+      <Analytics />
     </>
   );
 }
