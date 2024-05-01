@@ -2,6 +2,7 @@ import "./index.css";
 import Graph from "./components/Graph";
 import Nav from './components/Nav'
 import Hero from './components/Hero'
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
